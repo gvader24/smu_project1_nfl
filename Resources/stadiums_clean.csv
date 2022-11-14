@@ -1,48 +1,48 @@
-,stadium_name,stadium_location,stadium_open,stadium_close,stadium_type,stadium_weather_type,stadium_surface,LATITUDE,LONGITUDE,ELEVATION
-0,Arrowhead Stadium,"Kansas City, MO",1972,0,outdoor,cold,Grass,39.0692,-94.4871,264.9
-1,AT&T Stadium,"Arlington, TX",2009,0,retractable,dome,FieldTurf,32.7572,-97.0736,163.4
-2,Bank of America Stadium,"Charlotte, NC",1996,0,outdoor,moderate,Grass,35.2236,-80.9552,221.9
-3,Candlestick Park,"San Francisco, CA",1960,2013,outdoor,moderate,,37.6197,-122.3647,2.4
-4,CenturyLink Field,"Seattle, WA",2002,0,outdoor,moderate,FieldTurf,47.6523,-122.4095,93.0
-5,Edward Jones Dome,"St. Louis, MO",1995,0,indoor,dome,,,,
-6,FedEx Field,"Landover, MD",1997,0,outdoor,moderate,Grass,38.9133,-76.97,15.2
-7,FirstEnergy Stadium,"Cleveland, OH",1999,0,outdoor,cold,Grass,41.4057,-81.852,238.0
-8,Ford Field,"Detroit, MI",2002,0,indoor,dome,FieldTurf,,,
-9,Foxboro Stadium,"Foxborough, MA",1971,2001,outdoor,cold,,42.0479,-71.005,24.4
-10,Georgia Dome,"Atlanta, GA",1992,0,indoor,dome,FieldTurf,,,
-11,Giants Stadium,"East Rutherford, NJ",1976,2009,outdoor,cold,,40.6825,-74.1694,2.1
-12,Gillette Stadium,"Foxborough, MA",2002,0,outdoor,cold,FieldTurf,42.0479,-71.005,24.4
-13,Hard Rock Stadium,"Miami Gardens, FL",1987,0,outdoor,warm,Grass,25.7905,-80.3163,8.8
-14,Heinz Field,"Pittsburgh, PA",2001,0,outdoor,cold,Grass,40.4846,-80.2144,366.7
-15,Husky Stadium,"Seattle, WA",2000,2001,outdoor,moderate,,47.6523,-122.4095,93.0
-16,Lambeau Field,"Green Bay, WI",1957,0,outdoor,cold,Grass,44.4794,-88.1366,209.4
-17,Levi's Stadium,"Santa Clara, CA",2014,0,outdoor,moderate,Grass,37.6197,-122.3647,2.4
-18,Lincoln Financial Field,"Philadelphia, PA",2003,0,outdoor,cold,Grass,39.87327,-75.22678,3.0
-19,Los Angeles Memorial Coliseum,"Los Angeles, CA",1946,0,outdoor,warm,Grass,33.938,-118.3888,29.6
-20,Lucas Oil Stadium,"Indianapolis, IN",2008,0,retractable,dome,FieldTurf,39.8721,-86.1201,227.1
-21,M&T Bank Stadium,"Baltimore, MD",1998,0,outdoor,moderate,FieldTurf,39.1733,-76.684,47.5
-22,Mall of America Field,"Minneapolis, MN",1982,2013,indoor,dome,,,,
-23,Memorial Stadium (Champaign),"Champaign, IL",2002,2002,outdoor,cold,,,,
-24,Mercedes-Benz Stadium,"Atlanta, GA",2017,0,indoor,dome,FieldTurf,,,
-25,Mercedes-Benz Superdome,"New Orleans, LA",1975,0,indoor,dome,FieldTurf,,,
-26,MetLife Stadium,"East Rutherford, NJ",2010,0,outdoor,cold,FieldTurf,40.6825,-74.1694,2.1
-27,New Era Field,"Orchard Park, NY",1973,0,outdoor,cold,FieldTurf,42.889,-78.8901,178.0
-28,Nissan Stadium,"Nashville, TN",1999,0,outdoor,moderate,Grass,36.11889,-86.68917,182.9
-29,NRG Stadium,"Houston, TX",2002,0,retractable,dome,Grass,29.63806,-95.28194,13.4
-30,Oakland Coliseum,"Oakland, CA",1966,0,outdoor,moderate,Grass,37.72139,-122.22083,1.8
-31,Paul Brown Stadium,"Cincinnati, OH",2000,0,outdoor,cold,FieldTurf,39.1,-84.51667,193.9
-32,Pontiac Silverdome,"Pontiac, MI",1975,2001,indoor,dome,,,,
-33,Qualcomm Stadium,"San Diego, CA",1967,0,outdoor,warm,Grass,32.86667,-117.13333,145.4
-34,Raymond James Stadium,"Tampa, FL",1998,0,outdoor,warm,Grass,27.96194,-82.5403,5.8
-35,RCA Dome,"Indianapolis, IN",1984,2007,indoor,dome,,,,
-36,Soldier Field,"Chicago, IL",1926,0,outdoor,cold,Grass,41.8558,-87.6094,177.7
-37,Sports Authority Field at Mile High,"Denver, CO",1960,0,outdoor,cold,Grass,39.7633,-104.8694,1611.2
-38,StubHub Center,"Los Angeles, CA",2017,0,outdoor,warm,Grass,33.938,-118.3888,29.6
-39,TCF Bank Stadium,"Minneapolis, MN",2010,2015,outdoor,cold,,44.8831,-93.2289,265.8
-40,Texas Stadium,"Irving, TX",1971,2008,outdoor,moderate,,32.7572,-97.0736,163.4
-41,Three Rivers Stadium,"Pittsburgh, PA",1970,2000,outdoor,cold,,40.4846,-80.2144,366.7
-42,TIAA Bank Field,"Jacksonville, FL",1995,0,outdoor,warm,Grass,30.23333,-81.66667,6.1
-43,Tiger Stadium (LSU),"Baton Rouge, LA",2005,2005,outdoor,warm,,,,
-44,U.S. Bank Stadium,"Minneapolis, MN",2016,0,indoor,dome,FieldTurf,,,
-45,University of Phoenix Stadium,"Glendale, AZ",2006,0,retractable,dome,Grass,33.4552,-111.9316,375.2
-46,Veterans Stadium,"Philadelphia, PA",1971,2002,outdoor,cold,,39.87327,-75.22678,3.0
+stadium_name,stadium_location,stadium_open,stadium_close,stadium_type,stadium_weather_type,stadium_surface,LATITUDE,LONGITUDE,ELEVATION
+Arrowhead Stadium,"Kansas City, MO",1972,0,outdoor,cold,Grass,39.0692,-94.4871,264.9
+AT&T Stadium,"Arlington, TX",2009,0,retractable,dome,FieldTurf,32.7572,-97.0736,163.4
+Bank of America Stadium,"Charlotte, NC",1996,0,outdoor,moderate,Grass,35.2236,-80.9552,221.9
+Candlestick Park,"San Francisco, CA",1960,2013,outdoor,moderate,,37.6197,-122.3647,2.4
+CenturyLink Field,"Seattle, WA",2002,0,outdoor,moderate,FieldTurf,47.6523,-122.4095,93
+Edward Jones Dome,"St. Louis, MO",1995,0,indoor,dome,,,,
+FedEx Field,"Landover, MD",1997,0,outdoor,moderate,Grass,38.9133,-76.97,15.2
+FirstEnergy Stadium,"Cleveland, OH",1999,0,outdoor,cold,Grass,41.4057,-81.852,238
+Ford Field,"Detroit, MI",2002,0,indoor,dome,FieldTurf,,,
+Foxboro Stadium,"Foxborough, MA",1971,2001,outdoor,cold,,42.0479,-71.005,24.4
+Georgia Dome,"Atlanta, GA",1992,0,indoor,dome,FieldTurf,,,
+Giants Stadium,"East Rutherford, NJ",1976,2009,outdoor,cold,,40.6825,-74.1694,2.1
+Gillette Stadium,"Foxborough, MA",2002,0,outdoor,cold,FieldTurf,42.0479,-71.005,24.4
+Hard Rock Stadium,"Miami Gardens, FL",1987,0,outdoor,warm,Grass,25.7905,-80.3163,8.8
+Heinz Field,"Pittsburgh, PA",2001,0,outdoor,cold,Grass,40.4846,-80.2144,366.7
+Husky Stadium,"Seattle, WA",2000,2001,outdoor,moderate,,47.6523,-122.4095,93
+Lambeau Field,"Green Bay, WI",1957,0,outdoor,cold,Grass,44.4794,-88.1366,209.4
+Levi's Stadium,"Santa Clara, CA",2014,0,outdoor,moderate,Grass,37.6197,-122.3647,2.4
+Lincoln Financial Field,"Philadelphia, PA",2003,0,outdoor,cold,Grass,39.87327,-75.22678,3
+Los Angeles Memorial Coliseum,"Los Angeles, CA",1946,0,outdoor,warm,Grass,33.938,-118.3888,29.6
+Lucas Oil Stadium,"Indianapolis, IN",2008,0,retractable,dome,FieldTurf,39.8721,-86.1201,227.1
+M&T Bank Stadium,"Baltimore, MD",1998,0,outdoor,moderate,FieldTurf,39.1733,-76.684,47.5
+Mall of America Field,"Minneapolis, MN",1982,2013,indoor,dome,,,,
+Memorial Stadium (Champaign),"Champaign, IL",2002,2002,outdoor,cold,,,,
+Mercedes-Benz Stadium,"Atlanta, GA",2017,0,indoor,dome,FieldTurf,,,
+Mercedes-Benz Superdome,"New Orleans, LA",1975,0,indoor,dome,FieldTurf,,,
+MetLife Stadium,"East Rutherford, NJ",2010,0,outdoor,cold,FieldTurf,40.6825,-74.1694,2.1
+New Era Field,"Orchard Park, NY",1973,0,outdoor,cold,FieldTurf,42.889,-78.8901,178
+Nissan Stadium,"Nashville, TN",1999,0,outdoor,moderate,Grass,36.11889,-86.68917,182.9
+NRG Stadium,"Houston, TX",2002,0,retractable,dome,Grass,29.63806,-95.28194,13.4
+Oakland Coliseum,"Oakland, CA",1966,0,outdoor,moderate,Grass,37.72139,-122.22083,1.8
+Paul Brown Stadium,"Cincinnati, OH",2000,0,outdoor,cold,FieldTurf,39.1,-84.51667,193.9
+Pontiac Silverdome,"Pontiac, MI",1975,2001,indoor,dome,,,,
+Qualcomm Stadium,"San Diego, CA",1967,0,outdoor,warm,Grass,32.86667,-117.13333,145.4
+Raymond James Stadium,"Tampa, FL",1998,0,outdoor,warm,Grass,27.96194,-82.5403,5.8
+RCA Dome,"Indianapolis, IN",1984,2007,indoor,dome,,,,
+Soldier Field,"Chicago, IL",1926,0,outdoor,cold,Grass,41.8558,-87.6094,177.7
+Sports Authority Field at Mile High,"Denver, CO",1960,0,outdoor,cold,Grass,39.7633,-104.8694,1611.2
+StubHub Center,"Los Angeles, CA",2017,0,outdoor,warm,Grass,33.938,-118.3888,29.6
+TCF Bank Stadium,"Minneapolis, MN",2010,2015,outdoor,cold,,44.8831,-93.2289,265.8
+Texas Stadium,"Irving, TX",1971,2008,outdoor,moderate,,32.7572,-97.0736,163.4
+Three Rivers Stadium,"Pittsburgh, PA",1970,2000,outdoor,cold,,40.4846,-80.2144,366.7
+TIAA Bank Field,"Jacksonville, FL",1995,0,outdoor,warm,Grass,30.23333,-81.66667,6.1
+Tiger Stadium (LSU),"Baton Rouge, LA",2005,2005,outdoor,warm,,,,
+U.S. Bank Stadium,"Minneapolis, MN",2016,0,indoor,dome,FieldTurf,,,
+University of Phoenix Stadium,"Glendale, AZ",2006,0,retractable,dome,Grass,33.4552,-111.9316,375.2
+Veterans Stadium,"Philadelphia, PA",1971,2002,outdoor,cold,,39.87327,-75.22678,3
